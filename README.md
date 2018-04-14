@@ -1,5 +1,8 @@
 # doraDust-demo
 
-# to start
+#### to start
 npm install
-# demo
+
+#### have a look
+npm run dev
+
