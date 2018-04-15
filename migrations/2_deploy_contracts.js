@@ -1,6 +1,6 @@
 var Adoption = artifacts.require("Adoption");
 var ConvertLib = artifacts.require("./ConvertLib.sol");
-var MetaCoin = artifacts.require("./Dust.sol");
+var Dust = artifacts.require("./Dust.sol");
 var Voting = artifacts.require("./Voting.sol");
 
 module.exports = function(deployer) {
