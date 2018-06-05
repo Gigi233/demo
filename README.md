@@ -1,4 +1,4 @@
-# doraDust-demo
+# DApp full-stack demo
 
 #### to start
 npm install
